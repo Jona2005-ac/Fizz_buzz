@@ -1,5 +1,5 @@
 
-# 🧪 Ejercicio FizzBuzz - Node.js
+# 🧪 Ejercicio FizzBuzz
 
 Este repositorio contiene la solución al clásico ejercicio **FizzBuzz**, desarrollado como parte de un proceso de admisión para una pasantía. El proyecto fue implementado en **Node.js** usando el entorno de desarrollo **Visual Studio Code**.
 
