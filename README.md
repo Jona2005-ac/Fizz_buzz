@@ -1,7 +1,7 @@
 
 # 🧪 Ejercicio FizzBuzz
 
-Este repositorio contiene la solución al clásico ejercicio **FizzBuzz**, desarrollado como parte de un proceso de admisión para una pasantía. El proyecto fue implementado en **Node.js** usando el entorno de desarrollo **Visual Studio Code**.
+Este repositorio contiene la solución al clásico ejercicio **FizzBuzz**, desarrollado como parte de un proceso de admisión para una pasantía. El proyecto fue implementado en **javascript** usando el entorno de desarrollo **Visual Studio Code**.
 
 ---
 
@@ -32,7 +32,7 @@ Este repositorio contiene **dos implementaciones** del mismo ejercicio:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Jona2005-ac/fizzbuzz-nodejs.git
-   cd fizzbuzz-nodejs
+   cd fizzbuzz
 
 ## Herramientas utilizadas 
     -Javascript
